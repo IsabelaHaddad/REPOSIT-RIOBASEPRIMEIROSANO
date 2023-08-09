@@ -1,12 +1,20 @@
 h1 {
-    background-color: aqua;
     text-align:center;
+    background-color: aqua;
+}
+h3{
+    background-color: blue;
 }
 
 p {
     text-align: center;
+    font-size: medium;
 }
 
 strong {
-    font-size: 30px
+    font-size: larger;
+}
+
+body {
+    background-color: blueviolet;
 }
