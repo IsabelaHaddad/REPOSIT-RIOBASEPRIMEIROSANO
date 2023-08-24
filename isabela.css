@@ -3,6 +3,7 @@ h1 {
     background-color: aqua;
 }
 h3{
+    font-style: oblique;
     background-color: blue;
 }
 
@@ -18,8 +19,8 @@ body {
     background-color: blueviolet;
 }
 .unicornio {
-    background-color: aqua
-    color: blueviolet
+    background-color: forestgreen
+
 }
 .brilho {
     background-color: brown
