@@ -28,3 +28,8 @@ body {
 .brilho {
    color: aqua;
 }
+.lista {
+        display: inline-block;
+        padding: 10%;
+        margin-right: 20%;
+    }
