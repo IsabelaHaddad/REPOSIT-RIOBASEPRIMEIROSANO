@@ -27,6 +27,7 @@ body {
 }
 .brilho {
    color: aqua;
+    font-style: italic
 }
 .lista {
         display: inline-block;
