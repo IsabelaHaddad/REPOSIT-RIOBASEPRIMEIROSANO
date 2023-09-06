@@ -19,8 +19,12 @@ body {
     background-color: blueviolet;
 }
 .imagem1 {
-    width: 70px;
+    width: 200px;
 }
+.imagemcentralizada {
+ text-align: center;
+}
+
 .unicornio {
     background-color: forestgreen
 
