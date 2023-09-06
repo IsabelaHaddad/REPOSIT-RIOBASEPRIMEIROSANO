@@ -2,9 +2,13 @@ h1 {
     text-align:center;
     background-color: aqua;
 }
+h2{
+    text-align: center;
+}
 h3{
     font-style: oblique;
     background-color: blue;
+    text-align: center;
 }
 
 p {
