@@ -43,10 +43,9 @@ body {
         margin-right: 10%;
     }
 
-nav a {
-    text-transform: uppercase
-    color: #000000  
-    font-weight: bold
-    font-size: 22px
-    text-decoration: none
-        }
+nav a{
+    text-transform: uppercase;
+    color: blanchedalmond;
+    font-weight: 300;
+    font-size: 100%;
+}
