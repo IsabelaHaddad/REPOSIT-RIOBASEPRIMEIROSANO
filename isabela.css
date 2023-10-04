@@ -1,52 +1,46 @@
 h1 {
-    text-align:center;
-    background-color: aqua;
+    color: hotpink;
 }
 h2{
-    text-align: center;
+    color: hotpink;
 }
 h3{
-    font-style: oblique;
-    background-color: blue;
-    text-align: center;
+    color: hotpink;
 }
-
-p {
-    text-align: center;
-    font-size: medium;
-}
-strong {
-    font-size: larger;
+h4 {
+    color: hotpink;
 }
 
 body {
-    background-color: blueviolet;
+    background-color: lavender;
+    text-align: center;
 }
 .imagem1 {
-    width: 200px;
+    width: 20%;
 }
 .imagemcentralizada {
  text-align: center;
 }
 
 .unicornio {
-    background-color: forestgreen
+    font-style: initial;
 
 }
 .brilho {
-   color: aqua;
+   color: deeppink;
     font-style: italic
 }
 .lista {
         display: inline-block;
         padding: 5%;
         margin-right: 10%;
+        color: fuchsia;
     }
 
 nav a{
     text-transform: uppercase;
-    color: blanchedalmond;
+    color: darkorchid;
     font-weight: 300;
     font-size: 100%;
-    text-decoration: none;
+    text-decoration: none ;
 }
