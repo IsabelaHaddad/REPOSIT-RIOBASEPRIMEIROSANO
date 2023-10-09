@@ -4,6 +4,8 @@
 
 .centralizar {
   text-align: center
+  display: inline-block 
+  vertical-align: top
 }
 
 body {
