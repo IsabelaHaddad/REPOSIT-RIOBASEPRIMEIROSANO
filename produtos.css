@@ -19,7 +19,7 @@ body {
   text-align:center;
 }
 
-.lista li{
+.lista{
   display: inline-block;
   vertical-align: top;
   background-color: #FFFFFF;
