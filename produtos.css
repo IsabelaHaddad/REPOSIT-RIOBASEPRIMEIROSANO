@@ -19,10 +19,9 @@ body {
   text-align:center;
 }
 
-.lista{
+.lista {
   display: inline-block;
   vertical-align: top;
-  background-color: #FFFFFF;
   margin: o 1.5%;
   padding: 30px 20px;
   box-sizing: border-box;
