@@ -14,11 +14,11 @@ nav a{
   text-align: center
   display: inline-block;
   vertical-align: top;
-  margin: o 1.5%;
+  margin: 0 1.5%;
   padding: 30px 20px;
   box-sizing: border-box;
   border-color: pink;
-  border-width: 5px;
+  border-width: 20px;
   border-style: solid;
 }
 
