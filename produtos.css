@@ -16,7 +16,6 @@ nav a{
   vertical-align: top;
   margin: 0 1.5%;
   padding: 30px 20px;
-  box-sizing: border-box;
   border-color: pink;
   border-width: 20px;
   border-style: solid;
@@ -27,13 +26,4 @@ body {
   text-align:center;
 }
 
-.lista li {
-  display: inline-block;
-  vertical-align: top;
-  margin: o 1.5%;
-  padding: 30px 20px;
-  border-color: pink;
-  border-width: 5px;
-  border-style: solid;
-}
 
