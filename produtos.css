@@ -19,7 +19,7 @@ body {
   text-align:center;
 }
 
-.lista {
+.lista li {
   display: inline-block;
   vertical-align: top;
   margin: o 1.5%;
