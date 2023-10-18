@@ -11,13 +11,13 @@ nav a{
 }
 
 .centralizar {
-  text-align: center
+  text-align: center;
   display: inline-block;
   vertical-align: top;
   margin: 0 1.5%;
   padding: 30px 20px;
   border-color: pink;
-  border-width: 20px;
+  border-width: 30px;
   border-style: solid;
 }
 
