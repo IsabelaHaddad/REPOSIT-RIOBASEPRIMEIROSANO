@@ -16,7 +16,7 @@ body {
     text-align: center;
 }
 .imagem1 {
-    width: 20%;
+    width: 40%;
 }
 .imagemcentralizada {
  text-align: center;
@@ -40,6 +40,9 @@ body {
         border-width: 30px;
         border-style: solid;
     }
+.barbie {
+    width: 20%;
+}
 
 nav a{
     text-transform: uppercase;
