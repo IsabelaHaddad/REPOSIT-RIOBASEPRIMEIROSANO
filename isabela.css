@@ -12,7 +12,9 @@ h4 {
 }
 
 body {
-    background-color: lavender;
+    background-color: lavender;Brooklyn, Malibu e as irmãs Skipper, Stacie e Chelsea embarcam em uma aventura submarina enquanto se transformam em sereias.
+
+
     text-align: center;
 }
 .imagem1 {
@@ -37,12 +39,9 @@ body {
         color: fuchsia;
         padding: 5%;
         border-color: pink;
-        border-width: 30px;
+        border-width: 20px;
         border-style: solid;
     }
-.barbie {
-    width: 20%;
-}
 
 nav a{
     text-transform: uppercase;
