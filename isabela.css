@@ -40,6 +40,7 @@ body {
         border-color: pink;
         border-width: 20px;
         border-style: solid;
+        border-radius: 12px 50px 2px 120px;
     }
 
 nav a{
