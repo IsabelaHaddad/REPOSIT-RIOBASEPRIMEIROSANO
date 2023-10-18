@@ -35,6 +35,10 @@ body {
         padding: 5%;
         margin-right: 10%;
         color: fuchsia;
+        padding: 5%;
+        border-color: pink;
+        border-width: 30px;
+        border-style: solid;
     }
 
 nav a{
