@@ -4,6 +4,9 @@ nav a{
     font-weight: 300;
     font-size: 100%;
     text-decoration: none ;
+    border-color: pink;
+    border-width: 20px;
+    border-style: solid;
 }
 
 .imagem1 {
