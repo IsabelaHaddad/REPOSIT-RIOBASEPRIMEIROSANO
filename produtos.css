@@ -29,5 +29,10 @@ body {
   background-color: aquamarine;
   text-align:center;
 }
+nav a hover {
+    color: orange;
+    text-decoration: underline;
+}
+
 
 
