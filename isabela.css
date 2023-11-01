@@ -59,3 +59,7 @@ nav a:hover {
     color: orange;
     text-decoration: underline;
 }
+
+footer {
+    background-color: white;
+}
