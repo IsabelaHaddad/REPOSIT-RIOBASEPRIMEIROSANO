@@ -1,0 +1,16 @@
+nav a{
+    text-transform: uppercase;
+    text-align: center;
+    color: darkorchid;
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: none ;
+    border-color: pink;
+    border-width: 10px;
+    border-style: solid; 
+    backgound-color: pink;
+}
+nav a:hover {
+    color: orange;
+    text-decoration: underline;
+}
